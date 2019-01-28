@@ -3,11 +3,4 @@ print("Hello everybody;")
 print("Hello;")
 print("Hi;")
 print("Hello my dear friend;")
-print("Glad to see you;")
-dfdf
-dfdgdfgdgf
 fgfdgf
-11111111
-22222222
-33333333
-4444444
